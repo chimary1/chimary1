@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chimary1
 - 👀 I’m interested in all kind of tech 
-- 🌱 I’m currently learning front
+- 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me blackchi24@gmail.com
 
